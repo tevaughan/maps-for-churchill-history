@@ -35,3 +35,12 @@ http://commons.wikimedia.org/wiki/Atlas_of_Ancient_Rome#mediaviewer/File:Roman_E
 Gaul-50-BC.svg
 http://commons.wikimedia.org/wiki/File:Gaul.svg
 
+Bretagne.svg
+http://en.wikipedia.org/wiki/Brittany
+
+Rhine-Crossing.jpg
+http://en.wikipedia.org/wiki/Caesar's_Rhine_bridges
+
+LondonCalaisParis.png
+http://en.wikipedia.org/wiki/Calais
+
